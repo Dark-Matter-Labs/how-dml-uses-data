@@ -1,9 +1,9 @@
 Dark Matter Labs is a strategic discovery, design and development lab working to transition society in response to technological revolution and climate breakdown.
-. We run this website ([darkmatterlabs.org/](https://darkmatterlabs.org/)) and its subdomains.
+We run this website ([darkmatterlabs.org/](https://darkmatterlabs.org/)) and its subdomains.
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for visitors to our websites, user research participants, potential and existing clients, and job applicants.
 
-This page was last updated on 19 May 2021. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 19 May 2021. You can see previous versions [on GitHub](https://github.com/Dark-Matter-Labs/how-if-uses-data).
 
 ## Our websites
 
