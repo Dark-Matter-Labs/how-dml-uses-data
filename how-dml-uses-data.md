@@ -117,7 +117,7 @@ Sometimes we may publish quotes from research sessions. We only do this if we ha
 
 ### Opt-out of collection
 
-Participants are able to withdraw their information from a project at any time. To do this, contact [data@projectsbyif.com](mailto:data@projectsbyif.com).
+Participants are able to withdraw their information from a project at any time. To do this, contact [info@darkmatterlabs.org](mailto:info@darkmatterlabs.org).
 
 ## Potential and existing clients
 
