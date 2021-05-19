@@ -1,8 +1,9 @@
-Projects by IF is a limited company based in London, England. We run this website ([projectsbyif.com](https://projectsbyif.com)) and its subdomains.
+Dark Matter Labs is a strategic discovery, design and development lab working to transition society in response to technological revolution and climate breakdown.
+. We run this website ([darkmatterlabs.org/](https://darkmatterlabs.org/)) and its subdomains.
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for visitors to our websites, user research participants, potential and existing clients, and job applicants.
 
-This page was last updated on 20 January 2021. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 19 May 2021. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
@@ -31,7 +32,7 @@ We anonymise the data we collect and store it indefinitely, so we can see how us
 
 ### Where website data is processed and stored
 
-We use an analytics software called [Matomo](https://matomo.org). We run our own copy of Matomo on servers in London owned by [Digital Ocean](https://digitalocean.com). Digital Ocean give us full control over the software we use and how data is stored. Their approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
+We use an analytics software called [Matomo](https://matomo.org). We run Matomo through [Cloudflare](https://www.cloudflare.com). Their approach to customer data is outlined in [their privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ### Opt-out of collection
 
@@ -41,35 +42,24 @@ You can opt out of our analytics by turning on Do Not Track in your browser. Fin
 
 We also use third-party services to host and deliver website content. You can find out more about each of these services below:
 
-#### Netlify
+#### Cargo
 
-Many of IF's sites, including our main website and blog, are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
+DML's website is built and hosted by [Cargo](https://cargo.site/), their approach to GDPR is highlighred [here](https://support.cargo.site/GDPR-and-Cargo) and also reflected in their [Privacy Policy](https://cargo.site/Privacy)
 
-#### Vimeo
+#### Medium
 
-We host videos using [Vimeo](https://vimeo.com), because its infrastructure is better suited to delivering video content than our own. Find out more about how they use data in their [privacy statement](https://vimeo.com/privacy).
-
-#### Amazon Web Services
-
-We host documents (like PDFs) using [Amazon Web Services (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/).
-
-We don’t use logging for S3 files, but Amazon may log IP addresses to protect the security of their systems. We have signed a [Data Protection Addendum](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with Amazon to ensure data protections approved by the European Commission are in place.
-
-You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
+We host our blog on [Medium](https://medium.com), because its infrastructure is better suited to delivering blog content than our own. Find out more about how they use data in their [privacy statement](https://policy.medium.com/medium-privacy-policy-f03bf92035c9).
 
 #### Our social media accounts
 
 We use several social media accounts to share our work. We occasionally use the analytics tools provided by these platforms to understand how we can use these services better. Our social media accounts include:
 
-* [Projects by IF on Twitter](https://twitter.com/@projectsbyif) ([Privacy policy](https://twitter.com/en/privacy#update))
-* [Projects by IF on LinkedIn](https://www.linkedin.com/company/10589574) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
-* [Writing by IF on Medium](https://medium.com/writing-by-if) ([Privacy policy](https://medium.com/policy/medium-privacy-policy-f03bf92035c9))
-* [IF Policy Research on Medium](https://medium.com/if-policy-research) ([Privacy policy](https://medium.com/policy/medium-privacy-policy-f03bf92035c9))
-* [Projects by IF on Instagram](https://www.instagram.com/projectsbyif/) ([Privacy policy](https://help.instagram.com/519522125107875?helpref=page_content))
+* [Dark Matter Labs on Twitter](https://twitter.com/DarkMatter_Labs) ([Privacy policy](https://twitter.com/en/privacy#update))
+* [Dark Matter Labs on LinkedIn](https://www.linkedin.com/company/darkmatterlabs) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
+* [Dark Matter Labs on Medium](https://provocations.darkmatterlabs.org/) ([Privacy policy](https://medium.com/policy/medium-privacy-policy-f03bf92035c9))
+* [Dark Matter Labs on Facebook](https://www.facebook.com/darkmatterlabs.org/) ([Privacy policy](https://www.facebook.com/about/privacy/update))
 
-We may feature public messages, comments or replies on [celebrate.projectsbyif.com](https://celebrate.projectsbyif.com/).
-
-If you’d like content about you removed from this site or any of our social media profiles, please contact [data@projectsbyif.com](mailto:data@projectsbyif.com).
+If you’d like content about you removed from this site or any of our social media profiles, please contact [info@darkmatterlabs.org](mailto:info@darkmatterlabs.org).
 
 ## Research participants
 
@@ -119,7 +109,7 @@ All notes and digital files are destroyed or deleted 2 years after the research 
 
 Research material is separated from any identifiable information, such as consent forms, while we are working with it.
 
-Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by IF team members involved in the research. We may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.
+Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by DML team members involved in the research. We may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.
 
 We may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.
 
@@ -164,7 +154,7 @@ We use the following services to store and process this data:
 * Our workspace on Slack
 * Notion
 
-## Attendees of IF's events
+## Attendees of DML's events
 
 We run events to share our insights and to connect with other Responsible Data practitioners.
 
@@ -201,7 +191,7 @@ Videos of the events and the feedback we receive is kept indefinitely unless we 
 
 ### Where Attendee is processed and stored
 
-All Attendee data is stored on Google Drive and is only accessed by IF team members.
+All Attendee data is stored on Google Drive and is only accessed by DML team members.
 
 We may use feedback materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from Attendees. We don’t connect this information to Attendees’ names.
 
@@ -211,21 +201,10 @@ Sometimes we may publish quotes from the events we run. We only do this if we ha
 
 We also use third-party services to plan, deliver and host event content. You can find out more about each of these services below:
 
-#### Entourage BD
-
-We work with [Entourage BD] (https://entouragebd.com/) to plan our events, invite guests and gather feedback from Attendees. Entourage describes the data they collect about Attendees in their [Privacy Policy](https://entouragebd.com/privacy-policy/).
-
-#### Livestorm
-
-We use the webinar platform [Livestorm] (https://livestorm.co/) to stream our online events live. We believe Livestorm provides an intuitive interface for Attendees, and reliable video stream. Livestorm publish details about how they use data from events in their [Privacy Policy](https://livestorm.co/privacy-policy/).
-
-#### YouTube
-
-We host videos of our online events using [YouTube](https://www.youtube.com/channel/UCp2leIrD9S-tapcLhc2FziA), because its infrastructure is better suited to delivering video content than our own. Find out more about how they use data in their [privacy statement](https://www.youtube.com/intl/ALL_uk/howyoutubeworks/our-commitments/protecting-user-data/?utm_campaign=1008960&utm_source=paidsearch&yt_product=ytgen&yt_goal=eng&utm_medium=googlesearch&utm_content=txt&yt_campaign_id=hyw&yt_creative_id=&utm_keyword=youtube%20privacy%20policy&utm_matchtype=e).
 
 ### Opt-out of collection
 
-Attendees are able to withdraw their information at any time. To do this, contact [data@projectsbyif.com](mailto:data@projectsbyif.com).
+Attendees are able to withdraw their information at any time. To do this, contact [info@darkmatterlabs.org](mailto:info@darkmatterlabs.org).
 
 ## Job applicants
 
@@ -255,16 +234,15 @@ Recruitment data are deleted when a candidate leaves the recruitment process, is
 
 We use several services to help us find people to join our team. At the moment, these include:
 
-* [Workable](https://www.workable.com/) ([Privacy policy](https://www.workable.com/privacy))
-* [LinkedIn](https://www.linkedin.com/) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
+* [Notion](https://www.notion.so/) ([Privacy policy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac))
 
 (If you want to exercise your rights on a particular service, please refer to its privacy policy for more information.)
 
-We store CVs on Google Drive and on our main recruitment platform, Workable. Only team members involved in the recruitment process have access to recruitment platform accounts, CVs and emails.
+We store CVs on Google Drive. Only team members involved in the recruitment process have access to recruitment platform accounts, CVs and emails.
 
 ## Things we don't do
 
-IF doesn't participate in the following data processing activities:
+DML doesn't participate in the following data processing activities:
 
 * Buying or selling marketing lists
 * Entering into data sharing agreements with other organisations
@@ -275,9 +253,9 @@ We don't use "[soft opt-in](https://ico.org.uk/for-organisations/guide-to-pecr/e
 
 ## Keeping data secure
 
-We carefully choose our services and tools at IF. It’s important that they follow good security practices, like HTTPS, two-factor authentication and the ability to set a strong password. We've reviewed the privacy policies and security practices of everything we use.
+We carefully choose our services and tools at Dark Matter Labs. It’s important that they follow good security practices, like HTTPS, two-factor authentication and the ability to set a strong password. We've reviewed the privacy policies and security practices of everything we use.
 
-When a new team member joins IF, we explain best practices for keeping their devices secure, maintaining the security of their online accounts and working outside our offices.
+When a new team member joins DML, we explain best practices for keeping their devices secure, maintaining the security of their online accounts and working outside our offices.
 
 Infrastructure we maintain ourselves, like our Digital Ocean servers, are secured using [these best practices](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04). Only specific members of the team can access these servers.
 
@@ -310,8 +288,8 @@ The General Data Protection Regulation gives EU citizens the following rights:
 * [Right to object](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/)
 * [Rights related to automated decision-making, including profiling](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/rights-related-to-automated-decision-making-including-profiling/)
 
-To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document. We will respond to all requests within 28 days of receiving them.
+To exercise any of these rights, please contact us at [info@darkmatterlabs.org](mailto:info@darkmatterlabs.org). You can find information specific to the services we use or our activities in the relevant sections of this document. We will respond to all requests within 28 days of receiving them.
 
-Our postal address is Projects By IF, New Wing, Somerset House, London, WC2R 1LA.
+Our postal address is Dark Matter Labs, Trading via Architecture 00 Ltd., 217 Mare Street London, E8 3QE United Kingdom
 
 If you aren't satisfied by our response, you can contact the [Information Commissioner's Office](https://ico.org.uk/concerns/).
