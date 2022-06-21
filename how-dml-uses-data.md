@@ -289,15 +289,13 @@ We carefully choose our services and tools at Dark Matter Labs. It’s important
 
 When a new team member joins DML, we explain best practices for keeping their devices secure, maintaining the security of their online accounts and working outside our offices.
 
-Infrastructure we maintain ourselves, like our Digital Ocean servers, are secured using [these best practices](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04). Only specific members of the team can access these servers.
-
 ## Data breaches
 
 In the event of an unlawful data breach of this website’s database or the database(s) of any of our third-party data processors, it will be assessed and if appropriate reported to any and all affected persons and relevant authorities without undue delay, and if feasible, within 72 hours of the discovery of the breach. In the event of a data breach, we are also required to notify the Information Commissioner’s Office. We will do so following [their guidance](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/).
 
 ## Data transfer outside the EEA
 
-We have reviewed the privacy policies of third party services we use. They provide adequate protections when information is shared outside of the European Economic Area. We have team members in South Korea and Canada, which are both countries that have been approved as adequate for their 
+We have reviewed the privacy policies of third party services we use. They provide adequate protections when information is shared outside of the European Economic Area. We have team members in South Korea and Canada.
 
 ## Exemptions
 
@@ -325,9 +323,8 @@ The General Data Protection Regulation gives EU & UK citizens the following righ
     - You have the right to request that Dark Matter Labs restrict the processing of your personal data, under certain conditions. The right to object to processing - You have the right to object to Dark Matter Labs processing of your personal data, under certain conditions.
 - [Right to data portability](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/)
     - You have the right to request that Dark Matter Labs transfer the data that we have collected to another organisation, or directly to you, under certain conditions.
-- [Right to object](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/)
-    - 
-- [Rights related to automated decision-making, including profiling](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/rights-related-to-automated-decision-making-including-profiling/)
+- [Right to object](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/) - You have the right to object to your data processing, including profiling, when it is on relevant grounds. We do not perform direct marketing, but if we did,  if you unsubscribe from marketing emails, Dark Matter Labs is not allowed to send you any more emails unless we get your consent. 
+- [Rights related to automated decision-making, including profiling](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/rights-related-to-automated-decision-making-including-profiling/) - At Dark Matter Labs, we do not use any automated decision making tools and avoid profiling any of our data subjects. However, it is important to know that as one of your data rights under the GDPR you have the right to avoid automated decision making and ask for. 
 
 To exercise any of these rights, please contact us at [info@darkmatterlabs.org](mailto:info@darkmatterlabs.org). You can find information specific to the services we use or our activities in the relevant sections of this document. We will respond to all requests within 28 days of receiving them.
 
