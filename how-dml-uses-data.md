@@ -295,7 +295,7 @@ In the event of an unlawful data breach of this website’s database or the data
 
 ## Data transfer outside the EEA
 
-We have reviewed the privacy policies of third party services we use. They provide adequate protections when information is shared outside of the European Economic Area. We have team members in South Korea and Canada.
+We have reviewed the privacy policies of third party services we use. They provide adequate protections when information is shared outside of the European Economic Area. We have team members in South Korea and Canada, which are both countries that have been approved as adequate for their data policies by the European Commission.
 
 ## Exemptions
 
